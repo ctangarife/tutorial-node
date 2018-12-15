@@ -1,2 +1,7 @@
-#Repositorio GIT
-repositorio de prueba de nodejs
+# Repositorio GIT
+
+Repositorio de prueba de nodejs
+
+`````
+npm install
+`````
